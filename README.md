@@ -1,4 +1,5 @@
-# hello-world
+<amp-story standalone>
+<amp-story-page- id="page1">
 Just a test
 
 Hi humans!
